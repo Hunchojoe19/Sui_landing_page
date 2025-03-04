@@ -13,7 +13,7 @@ export default function Hero() {
 
         </div>
         <div className="flex flex-col items-center text-center space-y-2">
-          <Image src={"https://suihackerhouse.semicolon.africa/hacker-house.svg"} height={120} width={368} alt='sui-logo'/>
+          <Image src={"https://suihackerhouse.semicolon.africa/hacker-house.svg"} height={400} width={400} alt='sui-logo'/>
           <p className="text-lg mb-6 text-blue-300 font-semibold italic">Road to Sui Overflow</p>
         </div>
       </div>

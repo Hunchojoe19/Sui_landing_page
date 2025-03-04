@@ -7,7 +7,7 @@ const Registration = () => {
     <section className="relative mx-auto w-full mt-20">
         <div className='flex flex-col gap-y-6 md:flex-row md:gap-x-32 px-8 justify-center'>
 
-      <div className="flex flex-col items-center rounded-3xl bg-white p-8 lg:w-[300px] text-center shadow-2xl">
+      <div className="register flex flex-col items-center rounded-3xl bg-white p-8 lg:w-[300px] text-center shadow-2xl">
         <div className="mb-4 rounded-full bg-cyan-500/20 p-4">
           <div className="rounded-full bg-cyan-500 p-2 text-white">
            <CgProfile className='text-green-50' size={30}/>
@@ -33,7 +33,7 @@ const Registration = () => {
           </svg>
         </button>
       </div>
-      <div className="flex flex-col items-center rounded-3xl bg-white p-8 lg:w-[300px] text-center shadow-2xl">
+      <div className="register flex flex-col items-center rounded-3xl bg-white p-8 lg:w-[300px] text-center shadow-2xl">
         <div className="mb-4 rounded-full bg-cyan-500/20 p-4">
           <div className="rounded-full bg-cyan-500 p-2 text-white">
             <RiTeamFill className='text-green-50' size={30}/>

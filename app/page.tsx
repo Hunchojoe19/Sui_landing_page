@@ -5,7 +5,7 @@ import EligibilityPage from "@/pages/EligibilityPage";
 import Hero from "@/pages/Hero";
 import Registration from "@/pages/Registration";
 import { Requirement } from "@/pages/Requirement";
-import Image from "next/image";
+
 
 export default function Home() {
   return (

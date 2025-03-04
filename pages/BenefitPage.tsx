@@ -15,7 +15,7 @@ const BenefitPage = () => {
             </li>
             <li className="flex items-start gap-2">
               <span className="text-blue-500 mt-1 text-[20px]">•</span>
-              <span>Coaching and Mentorship from Move Experts, including the Sui Foundation's Head of Developer Relations</span>
+              <span>Coaching and Mentorship from Move Experts, including the Sui Foundation&apos;s Head of Developer Relations</span>
             </li>
             <li className="flex items-start gap-2">
               <span className="text-blue-500 mt-1 text-[20px]">•</span>

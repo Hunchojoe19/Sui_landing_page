@@ -7,7 +7,7 @@ import smiling from "../assets/smiling.png"
 
 const AboutSui = () => {
   return (
-    <div className='relative w-full'>
+    <div className='relative w-full bg-white'>
         <div className='w-full px-6 h-[200px] md:container md:mx-auto' >
             <div className='absolute flex flex-col items-start space-y-4 px-6 py-6 h-[210px] w-[90%] -top-10 bg-white shadow-2xl rounded-2xl md:w-[80%] lg:w-[70%] lg:right-48 md:h-[120px] md:flex-row md:items-center md:justify-between lg:px-12'>
                 <div className='flex items-center space-x-2'>

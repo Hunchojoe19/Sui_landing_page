@@ -32,7 +32,7 @@ const AboutSui = () => {
 
         </div>
         <div className='relative py-6 px-4 flex flex-col space-y-6 md:flex-row md:justify-between md:items-start md:container md:mx-auto'>
-        <Image src={smiling} alt='smiling image' className='w-[400px] h-[400px] md:w-1/2 md:h-1/2 lg:w-1/3 lg:h-1/3'/>
+        <Image src={smiling} alt='smiling image' className='w-full h-full md:w-1/2 md:h-1/2 lg:w-1/3 lg:h-1/3'/>
         <div className='w-full md:w-1/2 md:h-full md:px-4 lg:px-8'>
           <h2 className='mb-6 text-3xl font-bold text-blue-700'>About SUI Lagos Hacker House</h2>
           <p className='mb-4 text-lg'>

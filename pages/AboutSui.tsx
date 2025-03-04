@@ -11,16 +11,16 @@ const AboutSui = () => {
         <div className='w-full px-6 h-[200px] md:container md:mx-auto' >
             <div className='absolute flex flex-col items-start space-y-4 px-6 py-6 h-[210px] w-[90%] -top-10 bg-white shadow-2xl rounded-2xl md:w-[80%] lg:w-[70%] lg:right-48 md:h-[120px] md:flex-row md:items-center md:justify-between lg:px-12'>
                 <div className='flex items-center space-x-2'>
-                    <MdCalendarMonth size={30} className='text-blue-400'/>
+                    <MdCalendarMonth size={30} className='text-blue-700'/>
                     <p className='block font-semibold lg:hidden'>March 24-29, 2025</p>
                     <p className='hidden lg:block font-semibold'>March 24-29, <br/>2025</p>
                 </div>
                 <div className='flex items-center space-x-2'>
-                    <PiMapPinLineFill size={30} className='text-blue-400'/>
+                    <PiMapPinLineFill size={30} className='text-blue-700'/>
                     <p className='font-bold text-wrap'>312, herbert Macauley, <br/>Sabo, Yaba, Lagos, Nigeria.</p>
                 </div>
                 <div className='flex items-center space-x-2'>
-                    <IoMdTime size={30} className='text-blue-400'/>
+                    <IoMdTime size={30} className='text-blue-700'/>
                     <div className='flex flex-col items-start'>
 
                     <p className='font-normal'>Application deadline:</p>

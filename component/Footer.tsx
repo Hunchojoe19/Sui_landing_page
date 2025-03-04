@@ -16,7 +16,7 @@ const Footer = () => {
               <span>Lunch will be provided</span>
             </li>
           </ul>
-           <div className="mt-12 hidden max-w-6xl justify-start items-center gap-x-6 px-4 md:flex md:mt-24">
+           <div className="mt-12 hidden max-w-6xl justify-start items-center gap-x-6 md:flex md:mt-24">
           <div>
             <img
               alt="Semicolon logo"
@@ -45,7 +45,7 @@ const Footer = () => {
         <div>
           <h4 className="mb-4 text-lg font-bold text-cyan-500">Resources and Support</h4>
           <p className="mb-4">
-            Semicolon is hosting the training on Sui Move, sponsored by the Sui Foundation. If you have any questions or need any kind of support, click on the link to register: 
+            Semicolon is hosting the training on Sui Move, sponsored by the Sui Foundation. If you have any questions or need any kind of support, click on the link to register:&nbsp;
             <a className="text-cyan-500 underline" href="https://bit.ly/SC-SUI-Training">https://bit.ly/SC-SUI-Training</a>
           </p>
           <p>

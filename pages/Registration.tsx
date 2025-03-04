@@ -62,7 +62,7 @@ const Registration = () => {
         </button>
       </div>
         </div>
-        <div className='absolute -z-40 top-12 h-44 bg-blue-100/30 w-full'/>
+        <div className='hidden md:block absolute -z-40 top-12 h-44 bg-blue-100/30 w-full'/>
       <div className="mt-8 text-center">
         <p className='text-sm'>
           We will inform applicants if they were selected by{' '}

@@ -16,6 +16,31 @@ const Footer = () => {
               <span>Lunch will be provided</span>
             </li>
           </ul>
+           <div className="mt-12 hidden max-w-6xl justify-start items-center gap-x-6 px-4 md:flex md:mt-24">
+          <div>
+            <img
+              alt="Semicolon logo"
+              loading="lazy"
+              width="120"
+              height="30"
+              decoding="async"
+              className="h-6 w-auto object-contain bg-transparent"
+              src="https://suihackerhouse.semicolon.africa/semicolon-logo.svg"
+            />
+          </div>
+           <div className='w-0.5 h-6 bg-white'/>
+          <div>
+            <img
+              alt="Sui logo"
+              loading="lazy"
+              width="120"
+              height="30"
+              decoding="async"
+              className="h-6 w-auto object-contain bg-transparent"
+              src="https://suihackerhouse.semicolon.africa/sui-logo.svg"
+            />
+          </div>
+        </div>
         </div>
         <div>
           <h4 className="mb-4 text-lg font-bold text-cyan-500">Resources and Support</h4>
@@ -29,7 +54,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="max-w-6xl mx-auto px-4 grid md:grid-cols-2">
-        <div className="mx-auto mt-12 flex max-w-6xl items-center gap-16 px-4">
+        <div className="mt-12 flex max-w-6xl justify-start items-center gap-x-6 px-4 md:hidden">
           <div>
             <img
               alt="Semicolon logo"
@@ -41,7 +66,7 @@ const Footer = () => {
               src="https://suihackerhouse.semicolon.africa/semicolon-logo.svg"
             />
           </div>
-          <span className="text-xl">|</span>
+           <div className='w-0.5 h-6 bg-white'/>
           <div>
             <img
               alt="Sui logo"
